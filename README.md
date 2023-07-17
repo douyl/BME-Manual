@@ -127,5 +127,42 @@
 </p>
 
 ### 制作团队
-![image](image/yulong.jpg)
+- 窦雨龙
 
+  江苏省常州市
+
+  上科大生命学院2019级本科生 生物医学工程专业
+
+  自大三起加入生医工学院沈定刚院长的IDEA Lab学习至今，共同和独立负责过“婴幼儿血管瘤的智能诊断”和“数字化排牙与正畸对比照生成”两项课题。研究生阶段推免至上科大生医工学院，将在生医工学院崔智铭教授的课题组内继续攻克医学难题，研究方向为智能医学。
+
+  <img src="https://github.com/douyl/BME-Manual/blob/main/image/yulong.jpg" width="210px">
+
+- 于果
+  
+  辽宁省沈阳市
+  
+  上科大生命学院2019级本科生 生物医学工程专业
+  
+  本校推免至上科大生物医学工程专业，在生医工赖晓春老师的光子探测与成像实验室学习，研究方向为硬件电路设计。
+
+  <img src="https://github.com/douyl/BME-Manual/blob/main/image/guoyu.jpg" width="210px">
+
+- 徐梦洁
+  
+  浙江省绍兴市
+
+  上海科技大学信息科学与技术学院 计算机科学与技术专业
+
+  本科阶段于生医工学院沈定刚教授的IDEA Lab研究婴幼儿血管瘤治疗方式预测的课题，研究生阶段将加入王乾教授的实验室进行人体姿态识别与人脸识别等课题研究，研究方向为智能医学。
+
+  <img src="https://github.com/douyl/BME-Manual/blob/main/image/mengjie.png" width="210px">
+  
+- 金哲宇
+
+  江苏省南京市
+  
+  高中毕业于南京市金陵中学，本科毕业于上海科技大学生命科学与技术学院，生物医学工程专业，创业与管理专业辅修。
+  
+  本科阶段担任上科大学生心理协会社长与医学影像学课程助教。爱好运动，网球、篮球、羽毛球等，喜欢英美剧。目前在生医工学院李远宁教授课题组学习，主要研究方向为跨模态fMRI信号解码。
+  
+  <img src="https://github.com/douyl/BME-Manual/blob/main/image/zheyu.jpg" width="210px">
