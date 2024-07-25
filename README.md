@@ -187,14 +187,14 @@
   <font size=2>江苏省苏州市，高中毕业于上海市华东师范大学第二附属中学（紫竹校区）
   上科大生医工学院2022级本科生 生物医学工程专业
   本科期间担任生医工学委会成员，负责过新年晚会的总体策划、运动会前筹备以及比赛期间的人员调动等工作。爱好舞蹈，曾参与2022级“科源心启，绘梦同行”新生迎新晚会、2023年夏日草地音乐节、2024年Danceholic街舞社随舞等活动。
-    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/yiqing.jpg" width="210px"><details>
+    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/yiqing.jpg" width="500px"></details>
   </font>
 
 - 张皓然 
   <font size=2>四川省成都市 
   上科大生医工学院2023级本科生 生物医学工程专业
   生医工学院学生发展委员会成员
-    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/haoran.jpg" width="210px"></details>
+    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/haoran.jpg" width="500px"></details>
   </font>
 
 - 于果
@@ -202,7 +202,7 @@
   上科大生命学院2019级本科生 生物医学工程专业
   上科大生医工学院2023级研究生 生物医学工程专业
   推免至上科大生医工学院，在赖晓春教授的光子探测与成像实验室学习，研究方向为硬件电路设计。
-    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/guoyu.jpg" width="210px"><details>
+    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/guoyu.jpg" width="210px"></details>
   </font>
 
 - 徐梦洁
@@ -210,7 +210,7 @@
   上科大信息学院2019级本科生 计算机科学与技术专业
   上科大生医工学院2023级研究生 生物医学工程专业
   本科阶段于生医工学院沈定刚教授的IDEA Lab研究婴幼儿血管瘤治疗方式预测的课题，研究生阶段推免至上科大生医工学院，加入王乾教授的实验室进行人体姿态识别与人脸识别等课题研究，研究方向为智能医学。
-    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/mengjie.png" width="210px"><details>
+    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/memgjie.jpg" width="210px"></details>
   </font>
 
 - 金哲宇
