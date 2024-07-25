@@ -178,9 +178,9 @@
 
 
 
-<!-- #### 制作团队 -->
+#### 制作团队
 <details>
-  <summary><font size=3>制作团队，点开看学长学姐哦</font></summary>
+  <summary><font size=3>👈点开，给辛苦制作指南的各位学长学姐点个大拇哥哦👍</font></summary>
 
 - 窦雨龙
 
