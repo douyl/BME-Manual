@@ -210,7 +210,7 @@
   上科大信息学院2019级本科生 计算机科学与技术专业
   上科大生医工学院2023级研究生 生物医学工程专业
   本科阶段于生医工学院沈定刚教授的IDEA Lab研究婴幼儿血管瘤治疗方式预测的课题，研究生阶段推免至上科大生医工学院，加入王乾教授的实验室进行人体姿态识别与人脸识别等课题研究，研究方向为智能医学。
-    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/memgjie.jpg" width="210px"></details>
+    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/memgjie.png" width="210px"></details>
   </font>
 
 - 金哲宇
