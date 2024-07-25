@@ -176,10 +176,15 @@
 
 ### 制作团队
 - 窦雨龙
-  <font size=2>江苏省常州市，高中毕业于江苏省常州高级中学
+  <font size=2>
+  江苏省常州市，高中毕业于江苏省常州高级中学
+
   上科大生命学院2019级本科生 生物医学工程专业
+
   上科大生医工学院2023级研究生 生物医学工程专业
+
   大三至大四期间加入生医工学院沈定刚院长的IDEA Lab学习，研究生阶段推免至上科大生医工学院，在生医工学院崔智铭教授的课题组内继续攻克医学难题，研究方向为智能医学。
+  
     <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/yulong.jpg" width="210px"></details>
   </font>
 
