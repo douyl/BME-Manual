@@ -174,7 +174,14 @@
  享受假期，Enjoy Your Holiday!***
 </p>
 
-### 制作团队
+***
+
+
+
+<!-- #### 制作团队 -->
+<details>
+  <summary><font size=3>制作团队，点开看学长学姐哦</font></summary>
+
 - 窦雨龙
 
   <font size=2>
@@ -218,7 +225,7 @@
 
   <font size=2>
 
-  四川省成都市 
+  四川省成都市，高中毕业于成都市锦江区嘉祥外国语高级中学
 
   上科大生医工学院2023级本科生 生物医学工程专业
 
@@ -267,3 +274,5 @@
   本科阶段担任上科大学生心理协会社长与医学影像学课程助教。爱好运动，网球、篮球、羽毛球等，喜欢英美剧。目前在生医工学院李远宁教授课题组学习，主要研究方向为跨模态fMRI信号解码。
     <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/zheyu.jpg" width="300px"></details>
   </font>
+
+</details>
