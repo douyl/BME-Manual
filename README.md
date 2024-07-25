@@ -187,7 +187,7 @@
 
   大三至大四期间加入生医工学院沈定刚院长的IDEA Lab学习，研究生阶段推免至上科大生医工学院，在生医工学院崔智铭教授的课题组内继续攻克医学难题，研究方向为智能医学。
 
-    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/yulong.jpg" width="210px"></details>
+    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/yulong.jpg" width="300px"></details>
   </font>
 
 - 张逸清
@@ -211,7 +211,7 @@
   上科大生医工学院2022级本科生 生物医学工程专业
   
   生医工学院学生发展委员会委员
-    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/ouhou.jpg" width="210px"></details>
+    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/ouhou.jpg" width="300px"></details>
   </font>
 
 - 张皓然 
@@ -237,7 +237,7 @@
   上科大生医工学院2023级研究生 生物医学工程专业
 
   推免至上科大生医工学院，在赖晓春教授的光子探测与成像实验室学习，研究方向为硬件电路设计。
-    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/guoyu.jpg" width="210px"></details>
+    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/guoyu.jpg" width="300px"></details>
   </font>
 
 - 徐梦洁
@@ -251,7 +251,7 @@
   上科大生医工学院2023级研究生 生物医学工程专业
 
   本科阶段于生医工学院沈定刚教授的IDEA Lab研究婴幼儿血管瘤治疗方式预测的课题，研究生阶段推免至上科大生医工学院，加入王乾教授的实验室进行人体姿态识别与人脸识别等课题研究，研究方向为智能医学。
-    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/memgjie.png" width="210px"></details>
+    <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/mengjie.png" width="300px"></details>
   </font>
 
 - 金哲宇
@@ -265,5 +265,5 @@
   上科大生医工学院2023级研究生 生物医学工程专业
 
   本科阶段担任上科大学生心理协会社长与医学影像学课程助教。爱好运动，网球、篮球、羽毛球等，喜欢英美剧。目前在生医工学院李远宁教授课题组学习，主要研究方向为跨模态fMRI信号解码。
-    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/zheyu.jpg" width="210px"></details>
+    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/zheyu.jpg" width="300px"></details>
   </font>
