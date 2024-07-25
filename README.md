@@ -202,6 +202,18 @@
     <details><summary>👈点开，美照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/yiqing.jpg" width="500px"></details>
   </font>
 
+- 侯欧 
+
+  <font size=2>
+  
+  上海市 
+  
+  上科大生医工学院2022级本科生 生物医学工程专业
+  
+  生医工学院学生发展委员会委员
+    <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/ouhou.jpg" width="210px"></details>
+  </font>
+
 - 张皓然 
 
   <font size=2>
@@ -251,7 +263,7 @@
   上科大生命学院2019级本科生 生物医学工程专业 创业与管理专业辅修
 
   上科大生医工学院2023级研究生 生物医学工程专业
-  
+
   本科阶段担任上科大学生心理协会社长与医学影像学课程助教。爱好运动，网球、篮球、羽毛球等，喜欢英美剧。目前在生医工学院李远宁教授课题组学习，主要研究方向为跨模态fMRI信号解码。
     <details><summary>👈点开，帅照在这里</summary><img src="https://github.com/douyl/BME-Manual/blob/main/image/zheyu.jpg" width="210px"></details>
   </font>
